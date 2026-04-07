@@ -1,3 +1,3 @@
-import { HomeScreen } from "./home-screen";
+import { AiChatScreen } from "./ai-chat-screen";
 
-export default HomeScreen;
+export default AiChatScreen;
